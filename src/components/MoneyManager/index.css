@@ -1,0 +1,90 @@
+/* Write your CSS here */
+
+.first {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  padding: 20px;
+  margin-top: 20px;
+}
+.blue {
+  color: blue;
+}
+.second_box {
+  display: flex;
+  flex-direction: row;
+  margin-top: 40px;
+}
+
+.main_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+  margin: 20px;
+}
+
+.green_box {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+  background-color: #ecfccb;
+  border: 1px solid #84cc16;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.blue_box {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+  background-color: #cffafe;
+  border: 1px solid #06b6d4;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.purple_box {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+  background-color: #ede9fe;
+  border: 1px solid #7c3aed;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.sizing {
+  height: 60px;
+  width: 60px;
+}
+.margining {
+  margin-left: 20px;
+}
+.Third {
+  display: flex;
+  flex-direction: row;
+  margin-top: 40px;
+}
+.third_a {
+  border: 1px solid black;
+  padding: 30px;
+}
+
+.third_b {
+  margin-left: 70px;
+  border: 1px solid black;
+  padding: 10px;
+}
+.blueButton {
+  background-color: blue;
+  border: 0px;
+  margin-top: 20px;
+  border-radius: 2px;
+  padding: 10px;
+}
+.rowing {
+  display: flex;
+  flex-direction: row;
+}
+.rowing_individiual {
+  margin-left: 10px;
+}
